@@ -1,0 +1,29 @@
+{
+  "name": "@ull-esit-pl-1920/p8-t3-pdr-infix2egg-miguel-peg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/p8-t3-pdr-infix2egg-miguel-peg.git"
+  },
+  "author": "alu0101031538 <alu0101031538@ull.edu.es> (https://github.com/miguelbravo7)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/p8-t3-pdr-infix2egg-miguel-peg/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/p8-t3-pdr-infix2egg-miguel-peg#readme",
+  "dependencies": {
+    "@ull-esit-pl-1920/p7-t3-egg-2-miguel": "^2.1.5"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "sinon": "^9.0.3"
+  }
+}
